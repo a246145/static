@@ -6,7 +6,7 @@
 #!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/ymjz.png
 
 [rewrite_local]
-^https?:\/\/yimuapp\.com(:8082)?\/bookkeeping\/user\/getUser\/ url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/YiMuJiZhang.js
+^https?:\/\/yimuapp\.com(:8082)?\/bookkeeping\/user\/getUser\/ url script-response-body https://raw.githubusercontent.com/a246145/static/main/qx/js/yimu.js
 [mitm]
 hostname = yimuapp.com
 
